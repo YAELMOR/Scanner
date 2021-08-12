@@ -1,5 +1,4 @@
-# Rotem Drey 315585638
-# Yael Hadad 315346718
+
 
 import cv2
 import numpy as np
